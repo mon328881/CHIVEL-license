@@ -1,13 +1,13 @@
-# CHIVEL license list (upload this folder as its own GitHub repo)
+# CHIVEL license list (this folder is its own GitHub repo)
 
-Put only the signed `licenses/licenses.json` here.
+Repo: https://github.com/mon328881/CHIVEL-license
 
-Raw URL shape after push:
+Raw URL used by the client:
 
 ```
-https://raw.githubusercontent.com/<owner>/<repo>/main/licenses/licenses.json
+https://raw.githubusercontent.com/mon328881/CHIVEL-license/main/licenses/licenses.json
 ```
 
-Then set that URL in `DEFAULT_LICENSES_URL` of the client build.
+After issuing a license into `licenses/licenses.json`, commit and push this repo.
 
-Do **not** put `license_private.pem` in this folder.
+Do **not** put `license_private.pem` here.

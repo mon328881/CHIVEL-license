@@ -1,6 +1,14 @@
 {
   "schema": 1,
-  "issued_at": "2026-09-14T21:59:22.281403+08:00",
-  "licenses": [],
-  "signature": "7lgozjoT+zvjWIRMpWoEbsZSF/LKwQNBbm1gH50eiK/PuOyqQxJITqNQgX0H9Igi/ke1wwgK7LL89/18r1tgCw=="
+  "issued_at": "2026-09-14T22:14:18.116754+08:00",
+  "licenses": [
+    {
+      "serial": "CHIVEL-2026-1B56-A360",
+      "machine_id": "1B56BE158604D8B5FBA40A88E4F8A360",
+      "valid_from": "2026-09-14T00:00:00+08:00",
+      "valid_to": "2027-09-14T23:59:59+08:00",
+      "note": "local activate"
+    }
+  ],
+  "signature": "r+w3GV3Kg17dDG+S0pQSKw5a3VF1zsFW75fveMFPtuSajSnixFk/90D8bVW5tFAJGgIe8BeeDsYjiSmE0oIBAw=="
 }
